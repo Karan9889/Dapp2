@@ -2,7 +2,7 @@
 
 # City Hopper
 
->This is a repository for our captstone project  **CityHopper**.
+>This is a repository for my Dapp 2 project  **CityHopper**.
 
 Cityhopper is a online carpooling web application that allows people to share their rides and allow them to go from one place to another cheaply, quickly and efficiently. 
 
