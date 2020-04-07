@@ -6,6 +6,10 @@
 
 Cityhopper is a online carpooling web application that allows people to share their rides and allow them to go from one place to another cheaply, quickly and efficiently. 
 
+In This the Blockchain is doing the role of to protect the all like working as a security .
+
+In this the security is the best usage of the city hooper to be safe ride .
+
 ## Technologies:
 - Backend
     1. Node.js 
