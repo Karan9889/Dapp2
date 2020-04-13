@@ -1,4 +1,4 @@
-# Dapp2
+# Dapp 2
 
 # City Hopper
 
@@ -6,7 +6,7 @@
 
 Cityhopper is a online carpooling web application that allows people to share their rides and allow them to go from one place to another cheaply, quickly and efficiently. 
 
-In This the Blockchain is doing the role of to protect the all like working as a security .
+In This the Blockchain is playing the role to protect the all traveller through solidity  like working as a security .
 
 In this the security is the best usage of the city hooper to be safe ride .
 
@@ -16,18 +16,20 @@ In this the security is the best usage of the city hooper to be safe ride .
     2. Express
     3. MongoDB - Hosted online on MLab
     4. Mocha - Testing
+    5. Solidity security
 - Frontend
     1. Angular
     2. Bootstrap Grid
     3. Material 2 - UI Library
+    4. Ethereum smart contracts 
 
 ## File Structure
 The repository file structures for both frontend and backend. 
 
-Backend contains all the server logic for the application such as schema, controllers and middleware.
+Backend contains all the server logic for the application such as schema, controllers,security and middleware.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
-this is the security based car polling with long rides yhrough blockchain development tool 
+this is the security based car polling with long rides through blockchain development tool 
 which is the best for the security of the travellers .
 
 ## Development server
