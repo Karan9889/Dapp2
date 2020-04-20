@@ -24,4 +24,4 @@ router.get('/profile/picture/user/:id', user.getProfilePictureByUserID)
 router.get('/profile/picture/:id', user.getProfilePictureByID)
 
 module.exports = router;
-© 2020 GitHub, Inc.
+// © 2020 GitHub, Inc.
