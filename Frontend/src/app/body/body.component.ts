@@ -13,4 +13,3 @@ export class BodyComponent implements OnInit {
   }
 
 }
-© 2020 GitHub, Inc.
